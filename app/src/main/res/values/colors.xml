@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0000CD</color>
+    <color name="colorPrimaryDark">#00008B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="missing">#FF0000</color>
+    <color name="found">#FFFFFF</color>
+    <color name="gradient_start">#6995FF</color>
+    <color name="gradient_end">#6995FF</color>
+    <color name="border">#87CEFF</color>
+    <color name="transparent">#00FFFFFF</color>
+    <!--
+    <color name="gradient_start">#4B0082</color>
+    <color name="gradient_end">#DA70D6</color>
+    <color name="border">#FFACFC</color>
+    6495ED !-->
+</resources>

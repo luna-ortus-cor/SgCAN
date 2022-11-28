@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "958053227519",
+    "firebase_url": "https://sgcan-7f828.firebaseio.com",
+    "project_id": "sgcan-7f828",
+    "storage_bucket": "sgcan-7f828.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958053227519:android:e12ba61ee0ed1929",
+        "android_client_info": {
+          "package_name": "com.labs.sgcan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958053227519-qfdq0gkmiukb9d40go95igtoe6rktv61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCln_EKgvB1ckq6hLnH61PLQ0GiRQOboe4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
